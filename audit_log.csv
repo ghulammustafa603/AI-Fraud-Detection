@@ -1,0 +1,26 @@
+Timestamp,TXN_ID,Wallet,Amount,Risk_Score,Action,City
+2026-05-06 12:45:31,TXN-47288,JazzCash,50118,85.0,Auto-Blocked,Lahore
+2026-05-06 12:48:57,TXN-77408,Easypaisa,96145,88.0,Auto-Blocked,Multan
+2026-05-06 12:49:36,TXN-26357,JazzCash,73003,88.0,Confirmed,Quetta
+2026-05-06 12:50:16,TXN-73610,Easypaisa,73550,73.0,Auto-Blocked,Peshawar
+2026-05-06 13:07:31,TXN-92520,JazzCash,43811,72.0,Auto-Blocked,Karachi
+2026-05-06 13:29:02,TXN-12674,JazzCash,26825,80.0,Auto-Blocked,Karachi
+2026-05-06 13:32:23,TXN-43325,JazzCash,60102,80.0,Auto-Blocked,Lahore
+2026-05-06 22:33:44,TXN-51632,JazzCash,63539,92.0,Auto-Blocked,Lahore
+2026-05-06 22:37:40,TXN-47591,JazzCash,76425,73.0,Auto-Blocked,Peshawar
+2026-05-06 22:49:49,TXN-81147,Easypaisa,69870,85.0,Auto-Blocked (Timeout),Karachi
+2026-05-06 23:12:27,TXN-41616,JazzCash,69223,100.0,Auto-Blocked (Timeout),Karachi
+2026-05-06 23:15:12,TXN-59600,JazzCash,95564,72.0,Auto-Blocked (Timeout),Quetta
+2026-05-06 23:18:11,TXN-63558,Easypaisa,85663,80.0,Auto-Blocked (Timeout),Peshawar
+2026-05-06 23:21:13,TXN-71239,JazzCash,29233,85.0,Auto-Blocked (Timeout),Faisalabad
+2026-05-07 00:47:38,TXN-73868,JazzCash,56549,77.0,Auto-Blocked (Timeout),Lahore
+2026-05-07 00:52:03,TXN-55431,JazzCash,62112,73.0,Auto-Blocked (Timeout),Lahore
+2026-05-07 00:53:27,TXN-51156,Easypaisa,61904,88.0,Auto-Blocked (Timeout),Quetta
+2026-05-07 08:43:36,TXN-73269,Easypaisa,92128,73.0,Auto-Blocked (Timeout),Faisalabad
+2026-05-07 08:52:49,TXN-76632,JazzCash,59774,100.0,Auto-Blocked (Timeout),Karachi
+2026-05-07 08:54:10,TXN-75635,Easypaisa,36973,88.0,Auto-Blocked (Timeout),Peshawar
+2026-05-07 09:43:03,TXN-65714,Easypaisa,90364,80.0,Auto-Blocked (Timeout),Faisalabad
+2026-05-07 09:43:56,TXN-11836,Easypaisa,90579,85.0,Auto-Blocked (Timeout),Lahore
+2026-05-07 09:45:53,TXN-54076,Easypaisa,78228,92.0,Auto-Blocked (Timeout),Quetta
+2026-05-07 10:05:47,TXN-37168,JazzCash,51630,80.0,Auto-Blocked (Timeout),Multan
+2026-05-07 11:04:47,TXN-34688,JazzCash,41694,88.0,Auto-Blocked (Timeout),Quetta
